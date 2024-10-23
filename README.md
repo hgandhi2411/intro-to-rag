@@ -26,6 +26,5 @@ If you are not using Linux, head over the [Ollama](https://ollama.com/) website 
 
 
 ## Video
-Here is a video with step by step instructions:
-
-[![A gentle introduction to RAG using open-source models](https://img.youtube.com/vi/q9MD_hU2Yd8/0.jpg)](https://www.youtube.com/watch?v=q9MD_hU2Yd8)
+Here is a video with step by step instructions from Santiago Valdarrama: 
+[A gentle introduction to RAG using open-source models](https://www.youtube.com/watch?v=q9MD_hU2Yd8)
